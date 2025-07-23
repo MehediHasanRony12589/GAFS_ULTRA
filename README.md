@@ -35,6 +35,7 @@ A next-generation, low-cost, and autonomous fire and gas leak detection system d
 
 ## 📁 Repository Contents
 
+<img width="3000" height="2400" alt="Figure4_GAFS_ProcessFlow" src="https://github.com/user-attachments/assets/13253a99-8ee4-4dac-b8f8-e921822e5d4c" />
 
 ---
 
