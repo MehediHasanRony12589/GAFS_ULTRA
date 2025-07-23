@@ -2,7 +2,7 @@
 Main Arduino information file (c++)  with all sensor and control logic
 
 
-# GAFS-ULTRA: Gas and Flame Shield – Ultra
+# GAFS-ULTRA: Gas and Fire Shield – Ultra
 
 A next-generation, low-cost, and autonomous fire and gas leak detection system designed for high-risk environments such as restaurants, homes, and industrial zones. This project integrates multiple sensors, GSM alerting, and automated mitigation mechanisms on a modular hardware platform powered by Arduino.
 
